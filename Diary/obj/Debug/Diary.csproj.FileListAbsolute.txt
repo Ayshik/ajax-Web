@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2012\Projects\Diary\Diary\bin\Debug\Diary.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Diary\Diary\bin\Debug\Diary.exe
+c:\users\user\documents\visual studio 2012\Projects\Diary\Diary\bin\Debug\Diary.pdb
+c:\users\user\documents\visual studio 2012\Projects\Diary\Diary\obj\Debug\Diary.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Diary\Diary\obj\Debug\Diary.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Diary\Diary\obj\Debug\Diary.UserPanel.resources
+c:\users\user\documents\visual studio 2012\Projects\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Diary\Diary\obj\Debug\Diary.exe
+c:\users\user\documents\visual studio 2012\Projects\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\User\Desktop\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\User\Desktop\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\User\Desktop\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\User\Desktop\Diary\Diary\obj\Debug\Diary.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Diary\Diary\obj\Debug\Diary.Form1.resources
+C:\Users\User\Desktop\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+C:\Users\User\Desktop\Diary\Diary\obj\Debug\Diary.UserPanel.resources
+C:\Users\User\Desktop\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\User\Desktop\Diary\Diary\obj\Debug\Diary.pdb
